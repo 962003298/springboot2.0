@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0a8e14d-8d9e-49fc-b625-a6aadb5cc2ae" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="springbootmode@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="springbootmode@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="springbootmode@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="springbootmode: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springboot项目2.0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="XHTML File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\开发工具包\maven\maven-repository" />
+        <option name="mavenHome" value="D:/开发工具包/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\开发工具包\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SxhqfVRcF8tQIO7cVrEfC5K4Zj" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="cassandra&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/docker/Dockerfile" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.26697177" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.springboot2.itmq.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\springboot项目2.0\src\main\resources\templates\member" />
+      <recent name="E:\springboot项目2.0\src\main\resources\templates\base" />
+      <recent name="E:\springboot项目2.0\src\main\resources\images" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.springboot2.itmq.mapper" />
+      <recent name="com.springboot2.itmq.entity" />
+      <recent name="com.springboot2.itmq.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\springboot项目2.0\src\main\resources\templates\base" />
+      <recent name="E:\springboot项目2.0\src\main\resources" />
+      <recent name="E:\springboot项目2.0\src\main\resources\mapping" />
+      <recent name="E:\springboot项目2.0\src\main\resources\templates\member" />
+      <recent name="E:\springboot项目2.0\src\main\resources\static\res\static\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ItmqApplication">
+    <configuration name="1 in springboot项目2.0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot项目2.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="1" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItmqApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot项目2.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springboot2.itmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.springboot2.itmq" />
+      <option name="MAIN_CLASS_NAME" value="com.springboot2.itmq.ItmqApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItmqApplicationTests.contextLoads2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot项目2.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springboot2.itmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.springboot2.itmq" />
+      <option name="MAIN_CLASS_NAME" value="com.springboot2.itmq.ItmqApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItmqApplicationTests.contextLoads3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot项目2.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springboot2.itmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.springboot2.itmq" />
+      <option name="MAIN_CLASS_NAME" value="com.springboot2.itmq.ItmqApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItmqApplicationTests.receive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot项目2.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springboot2.itmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.springboot2.itmq" />
+      <option name="MAIN_CLASS_NAME" value="com.springboot2.itmq.ItmqApplicationTests" />
+      <option name="METHOD_NAME" value="receive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItmqApplication JavaScript" type="JavascriptDebugType" engineId="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" uri="http://localhost:8090/index">
+      <method v="2" />
+    </configuration>
+    <configuration name="ItmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot项目2.0" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot2.itmq.ItmqApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="LaunchBrowser.Before.Run" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" url="http://localhost:8090/index" />
+      </method>
+    </configuration>
+    <configuration name="Docker-2" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="itmq-0.0.1-SNAPSHOT" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="itmq-0.0.1-snapshot" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="8765" />
+                <option name="hostPort" value="8765" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="target/dockerFile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="Docker3" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="docker-demo" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="java:8" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="8765" />
+                <option name="hostPort" value="8765" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="src/main/docker/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean package install" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Docker.Docker-2" />
+      <item itemvalue="Docker.Docker3" />
+      <item itemvalue="JavaScript Debug.ItmqApplication JavaScript" />
+      <item itemvalue="JUnit.ItmqApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.ItmqApplicationTests.receive" />
+      <item itemvalue="JUnit.ItmqApplicationTests.contextLoads2" />
+      <item itemvalue="JUnit.ItmqApplicationTests.contextLoads3" />
+      <item itemvalue="JUnit.1 in springboot项目2.0" />
+      <item itemvalue="Spring Boot.ItmqApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.1 in springboot项目2.0" />
+        <item itemvalue="JUnit.ItmqApplicationTests.contextLoads3" />
+        <item itemvalue="JUnit.ItmqApplicationTests.receive" />
+        <item itemvalue="JUnit.ItmqApplicationTests.contextLoads2" />
+        <item itemvalue="JUnit.ItmqApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@4b57eb39" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@4b57eb39" type="9fbbdea:ServiceModel$ServiceNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@7268e870" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@4b57eb39" type="9fbbdea:ServiceModel$ServiceNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@ac7eae5" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0a8e14d-8d9e-49fc-b625-a6aadb5cc2ae" name="Default Changelist" comment="" />
+      <created>1572511346184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572511346184</updated>
+      <workItem from="1572511347305" duration="10433000" />
+      <workItem from="1573042807097" duration="3556000" />
+      <workItem from="1573126239115" duration="7595000" />
+      <workItem from="1573185434418" duration="6768000" />
+      <workItem from="1573632339123" duration="2913000" />
+      <workItem from="1573725476494" duration="2009000" />
+      <workItem from="1573912592080" duration="2064000" />
+      <workItem from="1573917248453" duration="6928000" />
+      <workItem from="1574077685127" duration="1720000" />
+      <workItem from="1574084826027" duration="5000" />
+      <workItem from="1574173541308" duration="3445000" />
+      <workItem from="1574243049940" duration="3899000" />
+      <workItem from="1574250063550" duration="6748000" />
+      <workItem from="1574345375437" duration="5289000" />
+      <workItem from="1574387046319" duration="527000" />
+      <workItem from="1574573140773" duration="7290000" />
+      <workItem from="1575204431724" duration="1064000" />
+      <workItem from="1575431770533" duration="739000" />
+      <workItem from="1575453169908" duration="99000" />
+      <workItem from="1575453799142" duration="883000" />
+      <workItem from="1575984985928" duration="95000" />
+      <workItem from="1575985089321" duration="5912000" />
+      <workItem from="1576030890693" duration="2691000" />
+      <workItem from="1576036732245" duration="84000" />
+      <workItem from="1576051122571" duration="526000" />
+      <workItem from="1576054022541" duration="6491000" />
+      <workItem from="1576147617612" duration="3173000" />
+      <workItem from="1576202564644" duration="1946000" />
+      <workItem from="1576594054963" duration="445000" />
+      <workItem from="1576595217913" duration="987000" />
+      <workItem from="1577070543578" duration="2204000" />
+      <workItem from="1577252311937" duration="39000" />
+      <workItem from="1578032181827" duration="7412000" />
+      <workItem from="1578368418800" duration="434000" />
+      <workItem from="1578368857982" duration="13057000" />
+      <workItem from="1578465511376" duration="3367000" />
+      <workItem from="1581405389863" duration="675000" />
+      <workItem from="1581481712518" duration="534000" />
+      <workItem from="1581488339315" duration="2030000" />
+      <workItem from="1581505823582" duration="176000" />
+      <workItem from="1581506024067" duration="31000" />
+      <workItem from="1581515301724" duration="7000" />
+      <workItem from="1582028261344" duration="377000" />
+      <workItem from="1582291597379" duration="1469000" />
+      <workItem from="1582384682071" duration="1692000" />
+      <workItem from="1582508494694" duration="5317000" />
+      <workItem from="1582555822925" duration="1353000" />
+      <workItem from="1582600389223" duration="7390000" />
+      <workItem from="1582633345401" duration="1000" />
+      <workItem from="1582634189162" duration="2125000" />
+      <workItem from="1582786165400" duration="7941000" />
+      <workItem from="1582816920853" duration="467000" />
+      <workItem from="1583158770987" duration="3182000" />
+      <workItem from="1583315071915" duration="7672000" />
+      <workItem from="1583328661532" duration="612000" />
+      <workItem from="1583329519582" duration="1941000" />
+      <workItem from="1583333456482" duration="271000" />
+      <workItem from="1583379838422" duration="214000" />
+      <workItem from="1583380162326" duration="2281000" />
+      <workItem from="1583413980758" duration="1229000" />
+      <workItem from="1583680787585" duration="1469000" />
+      <workItem from="1583722063710" duration="6273000" />
+      <workItem from="1583936055866" duration="844000" />
+      <workItem from="1583978735798" duration="5742000" />
+      <workItem from="1583988319112" duration="4084000" />
+      <workItem from="1584279622094" duration="1863000" />
+      <workItem from="1584281508467" duration="4225000" />
+      <workItem from="1584414465397" duration="740000" />
+      <workItem from="1584415273982" duration="1000" />
+      <workItem from="1584415824916" duration="1985000" />
+      <workItem from="1584423040861" duration="285000" />
+      <workItem from="1584423637288" duration="718000" />
+      <workItem from="1584445670860" duration="2274000" />
+      <workItem from="1584454474746" duration="406000" />
+      <workItem from="1585660717773" duration="71000" />
+      <workItem from="1585661704383" duration="159000" />
+      <workItem from="1586524190979" duration="397000" />
+      <workItem from="1586614978668" duration="1378000" />
+      <workItem from="1586616919915" duration="2129000" />
+      <workItem from="1586699918455" duration="1440000" />
+      <workItem from="1588688586997" duration="25000" />
+      <workItem from="1588688688742" duration="811000" />
+      <workItem from="1588757493957" duration="1253000" />
+      <workItem from="1588759706728" duration="239000" />
+      <workItem from="1588942700369" duration="1803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/springboot2/itmq/redis/LockRedis.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/springboot2/itmq/redis/LockRedis.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/springboot2/itmq/redis/LockService.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

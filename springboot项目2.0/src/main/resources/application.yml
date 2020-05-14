@@ -1,0 +1,42 @@
+server:
+  port: 8090
+
+#freemarker配置
+spring:
+  freemarker:
+    cache: false
+    charset: UTF-8
+    check-template-location: true
+    content-type: text/html
+    expose-request-attributes: true
+    expose-session-attributes: true
+    request-context-attribute: request
+    suffix: .html
+    template-loader-path:
+      - classpath:/templates
+  datasource:
+    username: root
+    password: 123456
+    url: jdbc:mysql://localhost:3306/springbootmode?serverTimezone=UTC
+    #url: jdbc:mysql://localhost:3306/springboot?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      connection-timeout: 60000
+  rabbitmq:
+    host: 192.168.40.132
+    username: guest
+    password: guest
+    port: 5672
+mybatis:
+  mapperLocations: classpath*:mapping/*.xml
+  typeAliasesPackage: com.springboot2.itmq.entity
+#定义照片位置
+mvc:
+  static-path-pattern: /image/**
+# pagehelper分组控件
+pagehelper:
+  helperDialect: mysql
+  reasonable: true
+  supportMethodsArguments: true
+  params: count=countSql
+

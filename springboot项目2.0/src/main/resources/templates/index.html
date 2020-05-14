@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>文件上传和下载</title>
+</head>
+<body>
+<form action='http://localhost:8090/file/index' method='post' enctype='multipart/form-data'>
+    <input type='file' name='file'><br>
+    <button type='submit'>上传</button>
+
+</form>
+<form action='http://localhost:8090/file/download' method='post' enctype='multipart/form-data'>
+    <button type='submit'>下载</button>
+</form>
+</body>
+</html>

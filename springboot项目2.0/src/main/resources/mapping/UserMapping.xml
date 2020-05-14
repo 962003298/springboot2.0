@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.springboot2.itmq.mapper.UserMapper">
+
+    <resultMap id="BaseResultMap" type="com.springboot2.itmq.entity.UserName">
+        <result column="id" jdbcType="INTEGER" property="id"/>
+        <result column="userName" jdbcType="VARCHAR" property="userName"/>
+        <result column="passWord" jdbcType="VARCHAR" property="passWord"/>
+        <result column="realName" jdbcType="VARCHAR" property="realName"/>
+    </resultMap>
+
+    <!-- 查询单条记录 -->
+    <select id="selectUserById" parameterType="int" resultMap="BaseResultMap">
+        select * from username where id = #{id}
+    </select>
+   <!-- 查询username全部数据   -->
+    <select id="selectAll"  resultMap="BaseResultMap">
+        select * from username
+    </select>
+    <select id="selectPage"  resultMap="BaseResultMap">
+       select * from username
+    </select>
+    <!--联合查询：级联属性 一对多 -->
+    <resultMap id="CourseResultMap" type="com.springboot2.itmq.entity.Teacher">
+        <result column="Tid" jdbcType="INTEGER" property="Tid"/>
+        <result column="Tname" jdbcType="VARCHAR" property="Tname"/>
+        <result column="Cid" jdbcType="INTEGER" property="course.cid"/>
+        <result column="Cname" jdbcType="VARCHAR" property="course.Cname"/>
+    </resultMap>
+    <!--联合查询：级联属性 一对多  第二种方式-->
+    <resultMap id="CourseResultMap2" type="com.springboot2.itmq.entity.Teacher">
+        <result column="Tid" jdbcType="INTEGER" property="Tid"/>
+        <result column="Tname" jdbcType="VARCHAR" property="Tname"/>
+        <association property="course" javaType="com.springboot2.itmq.entity.Course">
+            <!-- 两个表的关联关系  -->
+            <id column="Tid" property="Tid" />
+            <result column="cid" property="cid" />
+            <result column="Cname" property="Cname" />
+        </association>
+    </resultMap>
+    <select id="GetTeacher" resultMap="CourseResultMap" parameterType="int">
+      select c.Cname,c.CID,t.Tname,t.TID from course c,teacher t
+      where c.tid=t.TID and t.TID=#{id};
+    </select>
+
+    <select id="GetTeacher2" resultMap="CourseResultMap2" parameterType="int">
+      select c.Cname,c.CID,t.Tname,t.TID from course c,teacher t
+      where c.tid=t.TID and t.TID=#{id};
+    </select>
+
+<!--      <select id="getStudent" resultMap="Teacher">-->
+<!--         select t.TID,t.Tname,c.Cname from teacher t,course c where t.TID=c.TID and t.tid=1;-->
+<!--      </select>-->
+
+<!--    <select id="getStudent" resultMap="Teacher">-->
+<!--         select * from teacher-->
+<!--      </select>-->
+
+<!--    <resultMap id="Teacher" type="com.springboot2.itmq.entity.Teacher">-->
+<!--        <result property="Tid" column="Tid"/>-->
+<!--        <result property="Tname" column="Tname"/>-->
+<!--          &lt;!&ndash;  复杂的属性我们需要单独处理      &ndash;&gt;-->
+<!--            &lt;!&ndash;  对象： association-->
+<!--                  集合： collection                 &ndash;&gt;-->
+<!--        <association property="course" column="Cname" javaType="Course" select="getcourse">-->
+<!--        </association>-->
+<!--    </resultMap>-->
+
+<!--    <select id="getcourse" resultMap="com.springboot2.itmq.entity.Course">-->
+<!--         select * from course-->
+<!--      </select>-->
+</mapper>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="1.dao.CardsDao">
+
+    <resultMap type="1.entity.Cards" id="CardsMap">
+        <result property="cid" column="cid" jdbcType="INTEGER"/>
+        <result property="cnum" column="cnum" jdbcType="VARCHAR"/>
+    </resultMap>
+
+    <!--查询单个-->
+    <select id="queryById" resultMap="CardsMap">
+        select
+          cid, cnum
+        from springbootmode.cards
+        where cid = #{cid}
+    </select>
+
+    <!--查询指定行数据-->
+    <select id="queryAllByLimit" resultMap="CardsMap">
+        select
+          cid, cnum
+        from springbootmode.cards
+        limit #{offset}, #{limit}
+    </select>
+
+    <!--通过实体作为筛选条件查询-->
+    <select id="queryAll" resultMap="CardsMap">
+        select
+          cid, cnum
+        from springbootmode.cards
+        <where>
+            <if test="cid != null">
+                and cid = #{cid}
+            </if>
+            <if test="cnum != null and cnum != ''">
+                and cnum = #{cnum}
+            </if>
+        </where>
+    </select>
+
+    <!--新增所有列-->
+    <insert id="insert" keyProperty="cid" useGeneratedKeys="true">
+        insert into springbootmode.cards(cnum)
+        values (#{cnum})
+    </insert>
+
+    <!--通过主键修改数据-->
+    <update id="update">
+        update springbootmode.cards
+        <set>
+            <if test="cnum != null and cnum != ''">
+                cnum = #{cnum},
+            </if>
+        </set>
+        where cid = #{cid}
+    </update>
+
+    <!--通过主键删除-->
+    <delete id="deleteById">
+        delete from springbootmode.cards where cid = #{cid}
+    </delete>
+
+</mapper>

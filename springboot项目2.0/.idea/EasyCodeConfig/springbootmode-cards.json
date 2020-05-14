@@ -1,0 +1,24 @@
+{
+  "name" : "Cards",
+  "comment" : null,
+  "fullColumn" : [ {
+    "name" : "cid",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "cnum",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "1",
+  "savePath" : "./src/main/java/1",
+  "saveModelName" : "springboot项目2.0"
+}

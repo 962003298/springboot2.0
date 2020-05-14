@@ -1,0 +1,230 @@
+2019-11-06 20:32:52,244 [main] INFO  com.springboot2.itmq.ItmqApplication - Starting ItmqApplication on DESKTOP-3P2DPHP with PID 6812 (started by 96200 in E:\springboot项目2.0)
+2019-11-06 20:32:52,247 [main] INFO  com.springboot2.itmq.ItmqApplication - No active profile set, falling back to default profiles: default
+2019-11-06 20:32:52,774 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-11-06 20:32:52,777 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 20:32:52,796 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-11-06 20:32:53,038 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 20:32:53,241 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-11-06 20:32:53,249 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:32:53,250 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-11-06 20:32:53,250 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 20:32:53,337 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-11-06 20:32:53,337 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1024 ms
+2019-11-06 20:32:53,725 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 20:32:53,774 [main] INFO  org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2019-11-06 20:32:54,217 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:32:54,233 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-11-06 20:32:54,235 [main] INFO  com.springboot2.itmq.ItmqApplication - Started ItmqApplication in 2.38 seconds (JVM running for 3.056)
+2019-11-06 20:33:28,703 [http-nio-8090-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-06 20:33:28,703 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-11-06 20:33:28,707 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2019-11-06 20:34:22,943 [main] INFO  com.springboot2.itmq.ItmqApplication - Starting ItmqApplication on DESKTOP-3P2DPHP with PID 4556 (started by 96200 in E:\springboot项目2.0)
+2019-11-06 20:34:22,945 [main] INFO  com.springboot2.itmq.ItmqApplication - No active profile set, falling back to default profiles: default
+2019-11-06 20:34:23,415 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-11-06 20:34:23,416 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 20:34:23,431 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 4ms. Found 0 repository interfaces.
+2019-11-06 20:34:23,649 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 20:34:23,824 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-11-06 20:34:23,830 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:34:23,831 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-11-06 20:34:23,831 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 20:34:23,911 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-11-06 20:34:23,911 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 893 ms
+2019-11-06 20:34:24,266 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 20:34:24,313 [main] INFO  org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2019-11-06 20:34:24,712 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:34:24,727 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-11-06 20:34:24,730 [main] INFO  com.springboot2.itmq.ItmqApplication - Started ItmqApplication in 2.122 seconds (JVM running for 2.754)
+2019-11-06 20:34:31,689 [http-nio-8090-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-06 20:34:31,689 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-11-06 20:34:31,693 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2019-11-06 20:35:59,226 [main] INFO  com.springboot2.itmq.ItmqApplication - Starting ItmqApplication on DESKTOP-3P2DPHP with PID 11072 (started by 96200 in E:\springboot项目2.0)
+2019-11-06 20:35:59,229 [main] INFO  com.springboot2.itmq.ItmqApplication - No active profile set, falling back to default profiles: default
+2019-11-06 20:35:59,688 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-11-06 20:35:59,690 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 20:35:59,705 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-11-06 20:35:59,933 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 20:36:00,108 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-11-06 20:36:00,114 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:36:00,115 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-11-06 20:36:00,115 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 20:36:00,194 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-11-06 20:36:00,194 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 894 ms
+2019-11-06 20:36:00,552 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 20:36:00,599 [main] INFO  org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2019-11-06 20:36:00,998 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:36:01,014 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-11-06 20:36:01,016 [main] INFO  com.springboot2.itmq.ItmqApplication - Started ItmqApplication in 2.138 seconds (JVM running for 2.78)
+2019-11-06 20:36:10,426 [main] INFO  com.springboot2.itmq.ItmqApplication - Starting ItmqApplication on DESKTOP-3P2DPHP with PID 4384 (started by 96200 in E:\springboot项目2.0)
+2019-11-06 20:36:10,429 [main] INFO  com.springboot2.itmq.ItmqApplication - No active profile set, falling back to default profiles: default
+2019-11-06 20:36:10,879 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-11-06 20:36:10,880 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 20:36:10,895 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 4ms. Found 0 repository interfaces.
+2019-11-06 20:36:11,111 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 20:36:11,285 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-11-06 20:36:11,291 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:36:11,291 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-11-06 20:36:11,291 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 20:36:11,371 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-11-06 20:36:11,371 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 875 ms
+2019-11-06 20:36:11,721 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 20:36:11,767 [main] INFO  org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2019-11-06 20:36:12,161 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:36:12,176 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-11-06 20:36:12,178 [main] INFO  com.springboot2.itmq.ItmqApplication - Started ItmqApplication in 2.077 seconds (JVM running for 2.736)
+2019-11-06 20:36:19,879 [http-nio-8090-exec-2] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-06 20:36:19,880 [http-nio-8090-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-11-06 20:36:19,884 [http-nio-8090-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2019-11-06 20:38:24,684 [main] INFO  com.springboot2.itmq.ItmqApplication - Starting ItmqApplication on DESKTOP-3P2DPHP with PID 12844 (started by 96200 in E:\springboot项目2.0)
+2019-11-06 20:38:24,686 [main] INFO  com.springboot2.itmq.ItmqApplication - No active profile set, falling back to default profiles: default
+2019-11-06 20:38:25,133 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-11-06 20:38:25,135 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 20:38:25,150 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-11-06 20:38:25,368 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 20:38:25,543 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-11-06 20:38:25,549 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:38:25,550 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-11-06 20:38:25,550 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 20:38:25,629 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-11-06 20:38:25,629 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 879 ms
+2019-11-06 20:38:25,981 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 20:38:26,420 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:38:26,435 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-11-06 20:38:26,437 [main] INFO  com.springboot2.itmq.ItmqApplication - Started ItmqApplication in 2.089 seconds (JVM running for 2.715)
+2019-11-06 20:38:32,363 [http-nio-8090-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-06 20:38:32,363 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-11-06 20:38:32,367 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2019-11-06 20:42:37,386 [main] INFO  com.springboot2.itmq.ItmqApplication - Starting ItmqApplication on DESKTOP-3P2DPHP with PID 6868 (started by 96200 in E:\springboot项目2.0)
+2019-11-06 20:42:37,389 [main] INFO  com.springboot2.itmq.ItmqApplication - No active profile set, falling back to default profiles: default
+2019-11-06 20:42:37,847 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-11-06 20:42:37,849 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 20:42:37,864 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-11-06 20:42:38,079 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 20:42:38,255 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-11-06 20:42:38,261 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:42:38,261 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-11-06 20:42:38,262 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 20:42:38,342 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-11-06 20:42:38,342 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 881 ms
+2019-11-06 20:42:38,695 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 20:42:39,138 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:42:39,154 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-11-06 20:42:39,156 [main] INFO  com.springboot2.itmq.ItmqApplication - Started ItmqApplication in 2.109 seconds (JVM running for 2.75)
+2019-11-06 20:42:45,780 [http-nio-8090-exec-2] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-06 20:42:45,781 [http-nio-8090-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-11-06 20:42:45,785 [http-nio-8090-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2019-11-06 20:45:40,512 [main] INFO  com.springboot2.itmq.ItmqApplication - Starting ItmqApplication on DESKTOP-3P2DPHP with PID 6820 (started by 96200 in E:\springboot项目2.0)
+2019-11-06 20:45:40,515 [main] INFO  com.springboot2.itmq.ItmqApplication - No active profile set, falling back to default profiles: default
+2019-11-06 20:45:40,963 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-11-06 20:45:40,965 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 20:45:40,980 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-11-06 20:45:41,195 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 20:45:41,367 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-11-06 20:45:41,373 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:45:41,373 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-11-06 20:45:41,373 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 20:45:41,451 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-11-06 20:45:41,452 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 870 ms
+2019-11-06 20:45:41,801 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 20:45:42,238 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:45:42,254 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-11-06 20:45:42,256 [main] INFO  com.springboot2.itmq.ItmqApplication - Started ItmqApplication in 2.061 seconds (JVM running for 2.694)
+2019-11-06 20:45:50,087 [http-nio-8090-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-06 20:45:50,087 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-11-06 20:45:50,092 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2019-11-06 20:48:06,544 [main] INFO  com.springboot2.itmq.ItmqApplication - Starting ItmqApplication on DESKTOP-3P2DPHP with PID 7556 (started by 96200 in E:\springboot项目2.0)
+2019-11-06 20:48:06,546 [main] INFO  com.springboot2.itmq.ItmqApplication - No active profile set, falling back to default profiles: default
+2019-11-06 20:48:07,005 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-11-06 20:48:07,006 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 20:48:07,022 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-11-06 20:48:07,237 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 20:48:07,408 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-11-06 20:48:07,414 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:48:07,415 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-11-06 20:48:07,415 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 20:48:07,494 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-11-06 20:48:07,494 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 881 ms
+2019-11-06 20:48:07,846 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 20:48:08,286 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:48:08,302 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-11-06 20:48:08,304 [main] INFO  com.springboot2.itmq.ItmqApplication - Started ItmqApplication in 2.087 seconds (JVM running for 2.728)
+2019-11-06 20:48:17,146 [http-nio-8090-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-06 20:48:17,146 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-11-06 20:48:17,150 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2019-11-06 20:49:58,324 [main] INFO  com.springboot2.itmq.ItmqApplication - Starting ItmqApplication on DESKTOP-3P2DPHP with PID 4352 (started by 96200 in E:\springboot项目2.0)
+2019-11-06 20:49:58,327 [main] INFO  com.springboot2.itmq.ItmqApplication - No active profile set, falling back to default profiles: default
+2019-11-06 20:49:58,787 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-11-06 20:49:58,788 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 20:49:58,804 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-11-06 20:49:59,019 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 20:49:59,191 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-11-06 20:49:59,197 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:49:59,197 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-11-06 20:49:59,197 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 20:49:59,278 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-11-06 20:49:59,278 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 887 ms
+2019-11-06 20:49:59,635 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 20:50:00,084 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:50:00,101 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-11-06 20:50:00,103 [main] INFO  com.springboot2.itmq.ItmqApplication - Started ItmqApplication in 2.116 seconds (JVM running for 2.755)
+2019-11-06 20:50:30,646 [http-nio-8090-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-06 20:50:30,646 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-11-06 20:50:30,650 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2019-11-06 20:51:39,627 [http-nio-8090-exec-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-11-06 20:53:30,822 [main] INFO  com.springboot2.itmq.ItmqApplication - Starting ItmqApplication on DESKTOP-3P2DPHP with PID 13148 (started by 96200 in E:\springboot项目2.0)
+2019-11-06 20:53:30,824 [main] INFO  com.springboot2.itmq.ItmqApplication - No active profile set, falling back to default profiles: default
+2019-11-06 20:53:31,278 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-11-06 20:53:31,279 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 20:53:31,296 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-11-06 20:53:31,526 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 20:53:31,702 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-11-06 20:53:31,708 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:53:31,709 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-11-06 20:53:31,709 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 20:53:31,789 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-11-06 20:53:31,789 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 899 ms
+2019-11-06 20:53:32,141 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 20:53:32,583 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:53:32,599 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-11-06 20:53:32,601 [main] INFO  com.springboot2.itmq.ItmqApplication - Started ItmqApplication in 2.104 seconds (JVM running for 2.738)
+2019-11-06 20:53:37,373 [http-nio-8090-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-06 20:53:37,374 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-11-06 20:53:37,378 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2019-11-06 20:54:49,242 [main] INFO  com.springboot2.itmq.ItmqApplication - Starting ItmqApplication on DESKTOP-3P2DPHP with PID 12052 (started by 96200 in E:\springboot项目2.0)
+2019-11-06 20:54:49,244 [main] INFO  com.springboot2.itmq.ItmqApplication - No active profile set, falling back to default profiles: default
+2019-11-06 20:54:49,705 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-11-06 20:54:49,707 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 20:54:49,722 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-11-06 20:54:49,941 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 20:54:50,119 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-11-06 20:54:50,126 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:54:50,126 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-11-06 20:54:50,126 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 20:54:50,207 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-11-06 20:54:50,207 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 895 ms
+2019-11-06 20:54:50,562 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 20:54:51,008 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:54:51,024 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-11-06 20:54:51,026 [main] INFO  com.springboot2.itmq.ItmqApplication - Started ItmqApplication in 2.113 seconds (JVM running for 2.745)
+2019-11-06 20:55:09,575 [http-nio-8090-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-06 20:55:09,575 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-11-06 20:55:09,579 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2019-11-06 20:56:04,360 [main] INFO  com.springboot2.itmq.ItmqApplication - Starting ItmqApplication on DESKTOP-3P2DPHP with PID 7800 (started by 96200 in E:\springboot项目2.0)
+2019-11-06 20:56:04,362 [main] INFO  com.springboot2.itmq.ItmqApplication - No active profile set, falling back to default profiles: default
+2019-11-06 20:56:04,821 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-11-06 20:56:04,823 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 20:56:04,838 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-11-06 20:56:05,054 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 20:56:05,225 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-11-06 20:56:05,231 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:56:05,231 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-11-06 20:56:05,232 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 20:56:05,311 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-11-06 20:56:05,311 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 877 ms
+2019-11-06 20:56:05,658 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 20:56:06,095 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-11-06 20:56:06,111 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-11-06 20:56:06,113 [main] INFO  com.springboot2.itmq.ItmqApplication - Started ItmqApplication in 2.08 seconds (JVM running for 2.709)
+2019-11-06 20:56:15,011 [http-nio-8090-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-06 20:56:15,011 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-11-06 20:56:15,015 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms

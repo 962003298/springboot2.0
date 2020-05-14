@@ -1,0 +1,18 @@
+2019-12-13 10:19:40,096 [main] INFO  com.springboot2.itmq.ItmqApplicationTests - Starting ItmqApplicationTests on DESKTOP-3P2DPHP with PID 6632 (started by 96200 in E:\springboot项目2.0)
+2019-12-13 10:19:40,096 [main] INFO  com.springboot2.itmq.ItmqApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-13 10:19:40,727 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-12-13 10:19:40,742 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-12-13 10:19:40,758 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11ms. Found 0 repository interfaces.
+2019-12-13 10:19:41,289 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-12-13 10:19:42,070 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-13 10:19:43,071 [main] INFO  com.springboot2.itmq.ItmqApplicationTests - Started ItmqApplicationTests in 3.384 seconds (JVM running for 4.388)
+2019-12-13 10:19:43,307 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-13 10:20:14,087 [main] INFO  com.springboot2.itmq.ItmqApplicationTests - Starting ItmqApplicationTests on DESKTOP-3P2DPHP with PID 9176 (started by 96200 in E:\springboot项目2.0)
+2019-12-13 10:20:14,087 [main] INFO  com.springboot2.itmq.ItmqApplicationTests - No active profile set, falling back to default profiles: default
+2019-12-13 10:20:14,673 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-12-13 10:20:14,673 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-12-13 10:20:14,704 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11ms. Found 0 repository interfaces.
+2019-12-13 10:20:15,204 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-12-13 10:20:16,000 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-13 10:20:17,147 [main] INFO  com.springboot2.itmq.ItmqApplicationTests - Started ItmqApplicationTests in 3.488 seconds (JVM running for 4.877)
+2019-12-13 10:21:06,268 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
